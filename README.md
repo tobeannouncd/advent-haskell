@@ -9,8 +9,8 @@ Solutions can be run by executing `stack run -- [ARGUMENT(s)]`
 Usage: advent-haskell-exe [YEAR] [DAY] [(-s|--stdin) | (-f|--file ARG)]
 
 Available options:
-  YEAR                     puzzle year (default: 2023)
-  DAY                      puzzle day (default: 25)
+  YEAR                     puzzle year (default: <year of most recent puzzle>)
+  DAY                      puzzle day (default: <day of most recent puzzle>)
   -s,--stdin               use stdin as input
   -f,--file ARG            get input from file
   -h,--help                Show this help text
