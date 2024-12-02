@@ -1,6 +1,6 @@
 cabal-version: 2.2
 
--- This file has been generated from package.yaml by hpack version 0.36.0.
+-- This file has been generated from package.yaml by hpack version 0.37.0.
 --
 -- see: https://github.com/sol/hpack
 
@@ -36,6 +36,10 @@ library
       Solutions.Y2015
       Solutions.Y2015.D01
       Solutions.Y2015.D02
+      Solutions.Y2015.D03
+      Solutions.Y2024
+      Solutions.Y2024.D01
+      Solutions.Y2024.D02
   hs-source-dirs:
       src
   default-extensions:
